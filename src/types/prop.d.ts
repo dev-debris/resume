@@ -2,8 +2,6 @@ interface PortfolioDetailItemProp {
   coin: PurchasedCoin;
 }
 
-type ApexChartProp = import('react-apexcharts').Props;
-
 interface CoinListItemProp {
   coin: Coin;
 }
